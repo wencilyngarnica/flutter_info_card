@@ -1,6 +1,5 @@
-# flutter_info_card
-
-A new Flutter project.
+# Flutter Info Card
+A new Flutter project using Flutter framework.
 
 ## Getting Started
 
