@@ -97,7 +97,7 @@ class _InfoCardScreenState extends State<InfoCardScreen> {
               const Padding(
                 padding: EdgeInsets.symmetric(horizontal: 20),
                 child: Text(
-                  'Wencilyn Garnica',
+                  'WENCILYN GARNICA',
                   style: TextStyle(
                     fontSize: 32,
                     fontWeight: FontWeight.bold,
@@ -113,7 +113,7 @@ class _InfoCardScreenState extends State<InfoCardScreen> {
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 25),
                 child: Text(
-                  'Flutter Developer & Mobile App Enthusiast\n"Creating beautiful apps with passion"',
+                  'WAG KANG SUSUKO KA NA!\n',
                   style: TextStyle(
                     fontSize: 16,
                     color: Colors.white.withOpacity(0.9),
